@@ -68,6 +68,7 @@ namespace Proyecto_Pesajes
                 else
                     Console.WriteLine("BAJO " + (peso_inicial[i] - peso_promedios[i]) + " Kilos");
                 Console.WriteLine("\n####################################################\n");
+                Console.ReadKey();
             }
 
 
