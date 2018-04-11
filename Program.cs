@@ -9,6 +9,7 @@ namespace Proyecto_Pesajes
         //Francis Alvarez Luna 17-SIIN-1-117
         //Darwin Arias Peña 16-EIIT-1-043
         //Otoniel Hernandez 16-SIIN-1-100
+        //Raquel Fortuna 16-MIIT-1-031
         {
             //Declaracion de Variales a utilizar 
             float[] peso_inicial = new float[5];
@@ -23,7 +24,7 @@ namespace Proyecto_Pesajes
             Console.WriteLine("\t\tFrancis Alvarez Luna 17-SIIN-1-117\n\n");
             Console.WriteLine("\t\tDarwin Arias Peña 16-EIIT-1-043\n\n");
             Console.WriteLine("\t\tOtoniel Hernandez 16-SIIN-1-100\n\n");
-
+            Console.WriteLine("\t\tRaquel Fortuna 16-MIIT-1-031\n\n");
 
             //Loop para Insertar Pesos Iniciales
             for (int i = 0; i < 5; i++)
